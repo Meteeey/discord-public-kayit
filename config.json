@@ -1,0 +1,16 @@
+{
+  "token": "MTM5MTM3NjU",
+    "prefix": ".",
+     "sesliKanalId": "",
+
+
+
+
+
+
+
+       "desc1": "sesliKanalId, botun bağlanacağı ses kanalının ID'sidir,",
+        "desc2": "token, botun tokenidir,",
+          "desc3": "prefix, botun ön ekidir ,"
+    
+}

@@ -1,0 +1,16 @@
+{
+  "name": "medya-register",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node selam.js"
+  },
+  "dependencies": {
+    "@discordjs/voice": "^0.18.0",
+    "canvas": "^3.1.2",
+    "discord.js": "^14.21.0",
+    "ejs": "^3.1.9",
+    "express": "^5.1.0",
+    "metusbase": "^2.0.1"
+  }
+}
